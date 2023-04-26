@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: weblate/static/loader-bootstrap.js:186
-msgid "Add to screenshot"
+msgid "Add to screenshot in everywhere"
 msgstr ""
 
 #: weblate/static/loader-bootstrap.js:202
